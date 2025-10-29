@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",         // Target JavaScript yang dihasilkan
+    "module": "commonjs",       // Sistem modul (Node.js pakai commonjs)
+    "strict": true,             // Aktifkan strict type checking
+    "esModuleInterop": true,    // Supaya bisa import modul CommonJS
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true
+  },
+  "include": [
+    "*.ts"                     // Semua file .ts di folder ini
+  ],
+  "exclude": [
+    "node_modules"             // Kecualikan folder node_modules
+  ]
+}
