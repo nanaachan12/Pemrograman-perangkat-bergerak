@@ -58,7 +58,7 @@ Program ini memiliki menu interaktif untuk memilih 3 (tiga) soal logika yang ber
 
 ## 👩‍💻 Identitas Mahasiswa
 
-
+| Data | Keterangan |
 | :--- | :--- |
 | **Nama** | Nabila Naurotul Ummah |
 | **NIM** | 048656024 |
