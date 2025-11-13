@@ -96,7 +96,7 @@ ion-modal ion-content {
   align-items: center;
   justify-content: center;
   margin-bottom: 16px;
-  box-shadow: 0 4px 15px -5px rgba(120, 134, 199, 0.7); /* Bayangan #7886C7 */
+  box-shadow: 0 4px 15px -5px rgba(120, 134, 199, 0.7); 
 }
 
 .profile-avatar {
@@ -115,6 +115,7 @@ ion-modal ion-content {
   font-weight: 600;
   margin-top: 4px;
   margin-bottom: 0;
+  color: #7886C7;
 }
 
 .profile-nim {
@@ -129,6 +130,7 @@ ion-modal ion-content {
   width: 80%;
   margin: 20px 0;
 }
+
 
 .profile-socials-simple {
   display: flex;

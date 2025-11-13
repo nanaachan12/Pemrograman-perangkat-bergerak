@@ -128,7 +128,7 @@ const selectedUpcomingDay = ref<string | undefined>(undefined);
 const isProfileModalOpen = ref(false);
 const themeStyles = ref(THEME_LIGHT);
 
-// --- Lifecycle Hooks ---
+// Lifecycle Hooks
 onMounted(async () => {
   updateTime(); 
   timeInterval = setInterval(updateTime, 1000); 
