@@ -1,2 +1,11 @@
 /* For information on how to create your own theme, please see:
 http://ionicframework.com/docs/theming/ */
+
+body {
+  --ion-background-color: linear-gradient(135deg, #A9B5DF,  #7886C7);
+}
+:host {
+  color-scheme: only light;
+}
+
+
