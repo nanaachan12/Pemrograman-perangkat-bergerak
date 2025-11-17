@@ -1,0 +1,7 @@
+{
+  "name": "tugas3btc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
