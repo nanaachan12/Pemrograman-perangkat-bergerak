@@ -49,14 +49,3 @@ Tampilan mirip mobile-emulator saat di desktop, dan mendukung Light/Dark Mode.
 
 ---
 
-## 📂 Struktur Proyek  
-```
-src/
-│── components/
-│── views/
-│── services/
-│── utils/
-```
-
----
-
