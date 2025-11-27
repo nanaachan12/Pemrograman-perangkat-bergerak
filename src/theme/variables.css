@@ -1,2 +1,14 @@
 /* For information on how to create your own theme, please refer to:
 http://ionicframework.com/docs/theming/ */
+@import "tailwindcss";
+
+:root {
+  /* Kita tetap simpan font Poppins Anda */
+  --ion-font-family: 'Poppins', sans-serif;
+}
+
+html, body, ion-app {
+  font-family: 'Poppins', sans-serif !important;
+}
+
+
