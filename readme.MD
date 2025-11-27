@@ -1,10 +1,12 @@
 # 📱 Crypto Tracker  
 
-## 👩‍💻 Identitas Pengembang  
-**Nama:** Nabila Naurotul Ummah  
-**NIM:** 048656024  
-**Program Studi:** Sistem Informasi  
-**Mata Kuliah:** Pemrograman Berbasis Perangkat Bergerak   
+## 👩‍💻 Identitas Mahasiswa
+
+| Keterangan | Detail |
+|-------------|--------|
+| **Nama** | Nabila Naurotul Ummah |
+| **Program Studi** | Sistem Informasi|
+| **NIM** | 048656024 |
 
 ---
 
